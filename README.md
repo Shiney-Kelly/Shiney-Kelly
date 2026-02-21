@@ -1,7 +1,7 @@
 # Hi there 👋, I am Kelly!
 
 ## 💫 About Me:
-👨‍💻 I’m working as a Native Android SME <br>👯 I’m looking to collaborate more on native mobile apps<br>🌱 I’m exploring how to leverage LLM codewares on mobile development <br>⚡ Starting mobile development 0 from a web developer 
+👨‍💻 I’m working as a Native Android SME <br>👯 I’m looking to explore as an AI-coder for fantasy mini projects<br>🌱 I’m exploring how to leverage AI agents on mobile development <br>⚡ Starting AI coding 0 from a mobile developer 
 
 ## 🛠️ Tech Stack:
 ### Languages
