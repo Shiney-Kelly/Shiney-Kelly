@@ -29,7 +29,6 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 
 ## 🖥️ GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shiney-Kelly&theme=vue&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shiney-Kelly&theme=vue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiney-Kelly&theme=vue&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
