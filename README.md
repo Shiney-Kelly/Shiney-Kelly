@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Kelly!
 
-Senior Android engineer in Toronto. 5+ years building native consumer fintech apps in Kotlin and Jetpack Compose at Robinhood and Capital One.
+Senior Android engineer in Toronto. 5+ years building native consumer fintech apps in Kotlin and Jetpack Compose.
 
 🌐 **Portfolio:** [shiney-kelly.github.io](https://shiney-kelly.github.io)
 
